@@ -1,0 +1,5 @@
+Ciechocinek, ul. Zdrojowa 7;
+Pacanowo, ul. Koziolka Matola 1;
+Pruszkow, ul. Zasady 66;
+Krakow, ul. Conrada 51;
+
